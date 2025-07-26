@@ -14,7 +14,7 @@ SMI : 관리 정보 구조<br>
 MIB : 객체들의 데이터 베이스를 의미<br>
 <br>
 SNMP 메니저는 SNMP 에이전트에 대해 대상의 OID를 요청함<br>
-
+<br>
 SMI,MIB<br>
 트리 구조<br>
 1.ISO<br>
